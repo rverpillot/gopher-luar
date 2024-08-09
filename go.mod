@@ -1,5 +1,5 @@
 module layeh.com/gopher-luar
 
-go 1.12
+go 1.22
 
-require github.com/yuin/gopher-lua v0.0.0-20190206043414-8bfc7677f583
+require github.com/yuin/gopher-lua v1.1.1
